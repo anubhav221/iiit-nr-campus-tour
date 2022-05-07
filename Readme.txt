@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Template Name: Mentor
+Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
